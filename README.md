@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Entrega de projeto - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! | DIO
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Eu pedi a uma inteligência artificial que criasse uma história breve sobre um programador que tentava dominar o mundo. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[Blackbox](https://www.blackbox.ai/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Entrei no no site acima e por texto solicitei que ele escreve-se a história
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+###A História de Alexey Pajitnov
+
+Alexey Pajitnov era um jovem programador soviético que trabalhava no centro de informática de um instituto de ciências em Moscou. Ele estava entediado com seu trabalho e decidiu criar algo novo e emocionante. Em 1984, ele criou um jogo de computador chamado Tetris.
+
+O jogo foi um sucesso instantâneo entre os poucos usuários de computadores na União Soviética. Ele foi copiado de uma máquina para outra, passando entre os usuários de computadores em todo o país. Mas Alexey não sabia que seu jogo estava prestes a conquistar o mundo.
+
+Um fabricante britânico descobriu o jogo na Hungria e decidiu negociar os direitos de distribuição com o governo russo. Em pouco tempo, o Tetris havia conquistado europeus e norte-americanos. A indústria avançou rapidamente e, no final da década de 1980, surgiu uma nova maneira de jogar: os consoles portáteis como o Gameboy.
+
+Mas Alexey não conseguiu dominar o mundo com seu jogo. Ele não sabia que seu jogo estava sendo distribuído em todo o mundo e não recebeu dinheiro algum por isso. Foi apenas anos mais tarde que ele começou a ganhar dinheiro com o Tetris.
+
+Alexey Pajitnov não conseguiu dominar o mundo, mas seu jogo Tetris conquistou o coração de milhões de pessoas em todo o mundo.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
